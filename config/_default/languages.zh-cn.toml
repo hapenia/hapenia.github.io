@@ -1,0 +1,26 @@
+languageCode = "zh-cn"
+languageName = "Simplified Chinese"
+weight = 1
+title = "Hapenia的博客"
+
+
+[params]
+  displayName = "ZH-CN"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006年1月2日"
+  logo = "img/logo.svg"
+  description = "Hapenia的博客"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Hapenia"
+# image = "img/logo.svg"
+email = "youremail@example.com"
+headline = "科技改变世界，艺术书写人生"
+bio = "写点有意思的东西，分享一些有趣的思考。"
+links = [
+  { github = "https://github.com/hapenia" }
+]
