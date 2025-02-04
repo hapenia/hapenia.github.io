@@ -4,7 +4,8 @@
 [goldmark]
 [goldmark.renderer]
   unsafe = true
-
+[params]
+  math = true
 [highlight]
   noClasses = false
 
