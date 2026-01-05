@@ -5,7 +5,7 @@
 
 == 最近文章
 
-- #link("blog/2026-01-05-dao-and-shu-in-game-ui")[游戏UI/UX：道与术]
+- #link("Blog/2026-01-05-dao-and-shu-in-game-ui")[游戏UI/UX：道与术]
 
 == 鸣谢
 
