@@ -3,11 +3,6 @@
 
 = 博客 / Blog
 
-== 2025
+== 2026
 
-- #link("2025-10-30-normal-distribution/")[Normal Distribution]
-- #link("2025-04-16-monkeys-apes/")[Monkeys vs Apes]
-
-== 2024
-
-- #link("2024-10-04-iterators-generators/")[Iterators vs Generators in Python]
+- #link("2026-01-05-dao-and-shu-in-game-ui")[游戏UI/UX：道与术]

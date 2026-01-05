@@ -1,5 +1,9 @@
-html {
-  font-size: 10.5pt;
+html{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* 设置段落两端对齐 */
@@ -57,7 +61,7 @@ h5 {
 
 /* 英文/数字部分：倾斜、加粗 */
 .heading-en {
-  font-style: italic;
+  font-style: normal;
 }
 
 /* 覆盖 Tufte CSS 的默认代码块样式 */
@@ -223,6 +227,12 @@ sup.footnote-ref {
   border-color: #008000;
 }
 
+@media (prefers-color-scheme: light) {
+  body{
+    background-color: #fff;
+  }
+}
+
 /* 深色模式适配 */
 @media (prefers-color-scheme: dark) {
   /* 标题颜色 */
@@ -283,3 +293,4 @@ sup.footnote-ref {
     color: #eee !important;
   }
 }
+
